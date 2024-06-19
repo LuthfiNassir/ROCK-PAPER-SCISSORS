@@ -55,7 +55,7 @@ This repository contains a Python implementation of the classic game "Rock, Pape
 3. **Make your changes**
 4. **Commit your changes:** `git commit -m 'Add some feature'`
 5. **Push to the branch:** `git push origin feature-name`
-6. **Submit a pull request`
+6. **Submit a pull request**
 
 ---
 
