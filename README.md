@@ -46,7 +46,7 @@ This repository contains a Python implementation of the classic game "Rock, Pape
 
 ## Code Structure
 
-- `rock_paper_scissors.py`: The main script that contains the game logic.
+- `jagen.py`: The main script that contains the game logic.
 
 ## Contributing
 
