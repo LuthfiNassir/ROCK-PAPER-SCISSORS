@@ -20,8 +20,8 @@ This repository contains a Python implementation of the classic game "Rock, Pape
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/LuthfiNassir/rock-paper-scissors.git
-    cd rock-paper-scissors
+    git clone https://github.com/LuthfiNassir/ROCK-PAPER-SCISSORS.git
+    cd ROCK-PAPER-SCISSORS 
     ```
 
 2. **Ensure Python 3 is installed:**
@@ -44,4 +44,19 @@ This repository contains a Python implementation of the classic game "Rock, Pape
     - The game will display the result of the round and the updated scores.
     - You can play as many rounds as you like. Type "quit" to end the game.
 
-## Example
+## Code Structure
+
+- `rock_paper_scissors.py`: The main script that contains the game logic.
+
+## Contributing
+
+1. **Fork the repository**
+2. **Create a new branch:** `git checkout -b feature-name`
+3. **Make your changes**
+4. **Commit your changes:** `git commit -m 'Add some feature'`
+5. **Push to the branch:** `git push origin feature-name`
+6. **Submit a pull request`
+
+---
+
+Enjoy the game!
